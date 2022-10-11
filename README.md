@@ -29,14 +29,11 @@ The main goal of this test is to estimate your technical knowledge on Vue and Ta
 - Restaurants list (it can be the home page)
   - Name of the restaurant
   - Picture
-  - Address and distance to the hotel
   - Categories (eg : Bagels)
-  - Rating
-  - Price
-  - Yelp URL (to allow user to book directly in Yelp)
+  - all additional information that you think is useful to the user (and available in the API)
 
 - Detail of a restaurant
-  - *all the restaurants list information +*
+  - *all the restaurants list information*
   - additional pictures of the restaurant
   - all additional information that you think is useful to the user (and available in the API)
 
@@ -47,9 +44,7 @@ The main goal of this test is to estimate your technical knowledge on Vue and Ta
 ## Useful links
 
 - **[Yelp API](https://www.yelp.com/developers/documentation/v3)**
-- **[Vue 3](https://v3.vuejs.org)**
 - **[Tailwind Components](https://tailwindui.com/components)**
-- **[Your project home](http://localhost:3000)**
 
 ## Tips
 
