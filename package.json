@@ -1,16 +1,18 @@
 {
-  "name": "vuetest",
+  "name": "WhatsNext",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "nohup node ./cors-anywhere/cors.js & vite",
     "build": "vite build",
-    "preview": "vite preview --port 5050"
+    "preview": "vite preview --port 5050",
+    "cors": "nohup node ./cors-anywhere/cors.js &"
   },
   "dependencies": {
     "axios": "^0.26.1",
     "vue": "^3.2.31",
     "vue-axios": "^3.4.1",
-    "vue-router": "^4.0.14"
+    "vue-router": "^4.0.14",
+    "vuex": "^4.0.0-0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.1",
