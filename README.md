@@ -1,6 +1,6 @@
 <p align="center"><a href="https://www.heypongo.com" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQH0yJhTeZNz2A/company-logo_200_200/0/1649235360307?e=2147483647&v=beta&t=-U0q3S5Ky0kR_GAcQv5KwWVNQIB4RBKmoFTk6BCXEyc" width="200"></a></p>
 
-# Technical test - Frontent
+# Technical test - Frontend
 
 The main goal of this test is to estimate your technical knowledge on Vue and Tailwind. You will create a small web app using [Yelp API](https://www.yelp.com/developers/documentation/v3) called "WhatsNext" to display to someone landing to NYC (called Mark) all the restaurants around him. We'll let Mark book the restaurant he chose in the app.
 
